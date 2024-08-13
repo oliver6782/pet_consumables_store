@@ -5,7 +5,9 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/user-service" />
+    <content url="file://$MODULE_DIR$/user-service">
+      <excludeFolder url="file://$MODULE_DIR$/user-service/.idea/dataSources" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
